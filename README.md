@@ -1,2 +1,0 @@
-# OtaruDAO
-Proyecto Otaru WEB
